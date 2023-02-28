@@ -43,12 +43,12 @@ This is an application that allows you to create and list tasks. It is based on 
 ## Functions
 The app has the following functions:
 
-### listar
+### list
 This function allows you to display all the tasks registered in the tareas.json file on the console.
 
 node app.js listar
 
-### crear
+### create
 This function allows you to create a new task. The title of the task must be specified as an argument.
 
 node app.js crear "Title of the new task"
