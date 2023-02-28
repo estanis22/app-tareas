@@ -1,0 +1,38 @@
+[
+ {
+  "titulo": "Levantarse",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "Desayunar",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "Tomar mate",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "Prender el fuego",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "Almorzar",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "Siesta",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "Estudiar para DH",
+  "estado": "en progreso"
+ },
+ {
+  "titulo": "Testeando",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "Testeando 2",
+  "estado": "pendiente"
+ }
+]
